@@ -3,6 +3,7 @@ import noise
 
 pygame.init()
 
+# General Settings
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 TILE_SIZE = 2
